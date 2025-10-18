@@ -1,4 +1,4 @@
-# Bitcoin Mempool Monitor Bot
+<h1 align="center">Bitcoin Mempool Monitor Bot</h1>
 
 A Telegram bot that monitors Bitcoin network congestion using the mempool.space API and sends updates when conditions change.
 
